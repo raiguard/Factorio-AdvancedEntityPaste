@@ -1,0 +1,10 @@
+{
+  "name": "AdvancedEntityPaste",
+  "version": "1.0.0",
+  "title": "Advanced Entity Copy/Paste",
+  "description": "Expands entity settings copy/paste with new options and capabilities.",
+  "author": "raiguard",
+  "contact": "https://github.com/raiguard/Factorio-AdvancedEntityPaste",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.46", "flib >= 0.9.0"]
+}
